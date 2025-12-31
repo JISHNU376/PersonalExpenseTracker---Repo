@@ -77,8 +77,7 @@ lib/
 │   ├── home_page.dart
 │   ├── add_expense_page.dart
 │   ├── add_income_page.dart
-│   └── statistics_page.dart
-
+│   └── statistics_page.dart```
 
 
 ## Setup Instructions
@@ -87,6 +86,7 @@ lib/
 ```bash
 git clone https://github.com/JISHNU376/PersonalExpenseTracker---Repo.git
 cd PersonalExpenseTracker---Repo
+
 
 
 
