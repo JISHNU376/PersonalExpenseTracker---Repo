@@ -51,6 +51,9 @@ It is developed for submission as a job assignment.
 
 ## Project Structure and Code Components
 
+## Project Structure
+
+```text
 lib/
 ├── main.dart
 │
@@ -84,5 +87,6 @@ lib/
 ```bash
 git clone https://github.com/JISHNU376/PersonalExpenseTracker---Repo.git
 cd PersonalExpenseTracker---Repo
+
 
 
